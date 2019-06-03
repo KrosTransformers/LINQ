@@ -61,6 +61,7 @@
     <Compile Include="ElementOperatorTest.cs" />
     <Compile Include="QuantifiersTest.cs" />
     <Compile Include="AggregateOperatorsTest.cs" />
+    <Compile Include="PracticeTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
